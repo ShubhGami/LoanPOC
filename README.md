@@ -1,2 +1,0 @@
-# LoanPOC
-Created with CodeSandbox
